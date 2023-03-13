@@ -22,4 +22,4 @@ Owing to their ease of implementation, proportional-integral-derivative (PID) co
 
 ## Contributing
 
-Desert Legends was developed by Jesús Sánchez Palma and José Luis Ordoñez Ávila using Python and VSCode.
+This project was developed by Jesús Sánchez Palma and José Luis Ordoñez Ávila using Python and VSCode.
